@@ -48,11 +48,59 @@
 /* FINE HEADER */
 
 /* MAIN */
-.first-lines{
+.body-text{
   margin-top: 20px;
 }
 
 .underlined{
   background-color: goldenrod;
 }
+
+ul{
+  margin-top: 20px;
+}
+
+table{
+  margin-top: 20px;
+  text-align: left;
+}
+
+.blue-row{
+  background-color: deepskyblue;
+  color:white;
+}
+
+.lightblue-row{
+  background-color: lightblue;
+}
+
+#big-row{
+  width:50%;
+}
 /* FINE MAIN */
+
+/* FOOTER */
+.interesting{
+  margin-top:20px;
+  color:grey;
+}
+
+.monitor{
+  margin-top: 20px;
+  background-image: url(monitor.jpg);
+  width: 250px;
+  height:150px;
+  color:white;
+  font-size: 20px;
+}
+
+.graph{
+  margin-top: 20px;
+  background-image: url(graph.jpg);
+  width: 250px;
+  height:150px;
+  color:white;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+/* FINE FOOTER */
